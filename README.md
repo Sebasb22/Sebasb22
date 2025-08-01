@@ -36,7 +36,7 @@
 ✔ I’m currently learning **ReactJS** & **NodeJS**<br>
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
-✔ I use to write coad on [leetcode]([https://leetcode.com/Akash_Chowrasia/](https://leetcode.com/u/Sebasb22/) <br>
+✔ I use to write coad on [leetcode]([https://leetcode.com/Sebastian B/](https://leetcode.com/u/Sebasb22/) <br>
 
  
 
