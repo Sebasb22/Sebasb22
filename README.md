@@ -48,7 +48,33 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,express,figma,firebase,github,html,java,js,linux,materialui,nginx,vite,wordpress,nestjs,mongodb,mysql,nextjs,nodejs,postman,py,react,angular,vue,redux,tailwind,ts,vscode&perline=14" />
+    <!-- Frontend (sin frameworks) -->
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=14" />
+
+<!-- Frontend Frameworks / Librerías -->
+<img src="https://skillicons.dev/icons?i=react,angular,vue,redux,tailwind,materialui,nextjs,vite&perline=14" />
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs&perline=14" />
+
+<!-- Bases de Datos -->
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&perline=14" />
+
+<!-- DevOps / Infraestructura -->
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx&perline=14" />
+
+<!-- Herramientas de Desarrollo -->
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&perline=14" />
+
+<!-- Diseño / Prototipado -->
+<img src="https://skillicons.dev/icons?i=figma&perline=14" />
+
+<!-- Lenguajes de Programación Extra -->
+<img src="https://skillicons.dev/icons?i=java,py&perline=14" />
+
+<!-- Otros -->
+<img src="https://skillicons.dev/icons?i=wordpress,discord,linux&perline=14" />
+
   </a>
 </p>
 
